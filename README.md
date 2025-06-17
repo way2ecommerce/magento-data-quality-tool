@@ -1,1 +1,0 @@
-# magento-data-quality-tool
